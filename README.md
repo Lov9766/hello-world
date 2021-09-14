@@ -1,3 +1,5 @@
 # hello-world
+
 this is my first repository 
-i love :coffe: :piza: and :dinner:.
+
+I love :coffee: :pizza:, and :dancer:.
